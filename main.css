@@ -2,13 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 
 header,
 section h2,
 section h3,
 form button{
-    font-family: 'Moirai One', cursive;
+    font-family: 'Tilt Prism', cursive;
     font-weight: normal;
 }
 
@@ -58,6 +59,7 @@ section .container{
 
 section .container{
     align-items: flex-start;
+
 }
 
 section{
